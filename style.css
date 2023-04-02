@@ -189,9 +189,10 @@
     left: 0;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.6);
-    box-shadow: 7px 7px 5px rgb(248, 6, 6);
+    /* box-shadow: 7px 7px 5px rgb(248, 6, 6); */
     padding: 0.4rem;
     /* overflow: hidden; */
+    margin-top: auto;
   }
 
   .swiper-slide {
